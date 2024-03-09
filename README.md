@@ -1,5 +1,3 @@
-# Readme
-
 ## Aplicación de Java
 
 Esta aplicación de Java es un simple programa de ejemplo que muestra un mensaje en la consola.
